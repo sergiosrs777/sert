@@ -1,6 +1,8 @@
 nombre = "Sergio"
 print("Nombre: " + nombre)
 
+len(nombre)
+
 edad = 25
 print("Edad: " + str(edad))
 
@@ -21,3 +23,6 @@ print("División: " + str(numero1 // numero2))
 print("Resto: " + str(numero1 % numero2))
 print("Potencia: " + str(numero1 ** numero2))
 print("Raíz cuadrada: " + str(numero1 ** 0.5))
+
+nombres = ["Sergio", "Ana", "Lucía"]
+numeros = [3, 4, 5, 6]
